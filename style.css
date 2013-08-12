@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:#202020;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color:#4e4e4d;
+}
+
+a {
+    text-decoration:none;
+    text-transform:none;
+    font-size:1.0em;
+    padding:0px;
+    display:inline;
+}
+
+a:hover, a:visited, a:active {
+    text-decoration: none;
+    background:none;
+}
+
+
+ul {
+    list-style-type:none;
+    padding:0px;
+}
+
+img { 
+    float:left;
+    margin: 0px;
+}
+
+
+/* Main */
+#banner {
+    width:960px;
+    height:300px;
+    background: #ffffff url('images/banner3gray2.jpg') no-repeat top center;
+    background-size: 960px, auto;
+    float:center;
+}
+
+#main {
+    float:center;
+    margin: 0 auto;
+    width:960px;
+    padding: 0;
+}
+
+/* Menu */
+
+#menu {
+    float:center;
+    margin: 0 auto;
+    width:100%;
+    padding: 0;
+}
+
+#menu li {
+    float:left;
+}
+
+/* Header stuff */
+
+h1.title {
+    padding:10px;
+    /* color:#e83d00; */
+    color:#ffffff;
+    font-weight:bolder;
+    font-size:3.0em;
+    text-align:right;
+    text-shadow: 0.1em 0.1em 0.2em orange;
+    z-index:1;
+}
+
+
+/* Page */
+
+#header {
+    float: left;
+    width: 960px;
+}
+
+#home-info {
+    float:left;
+    width:500px; 
+}
+
+#page_content {
+    line-height:200%;
+    float: left;
+    width: 900px;
+    padding-top:20px;
+    padding-left:60px;
+    padding-bottom:100px;
+    background-color:#ffffff;
+    position:absolute;
+    top:280px;
+}
+
+
+#page_content ul {
+    list-style-image:url('images/list.gif');
+}
+#page_content li {
+    padding:10px;
+    margin-left:30px;
+}
+
+#page_content a, a:link, a:visited, a:hover, a:active {
+    display:inline;
+    font-weight:bold;
+    font-size:1em;
+    color:#404040;
+    font-family: tahoma, arial, verdana;
+    width:100%;
+    height:100%;
+    text-align:left;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+    padding-right:0px;
+    line-height:200%;
+}
+
+#page_content a:hover {
+    text-shadow: 0.1em 0.1em 1.0em gray;
+}
+
+#home-info {
+    float:right;
+    padding:25px;
+}
+
+#menu a, a:link, a:visited {
+    display:block;
+    font-weight:bold;
+    font-size:1.2em;
+    color:orange;
+    width:160px;
+    height:38px;
+    text-align:center;
+    padding-top:100px;
+    padding-bottom:4px;
+    padding-left:0px;
+    padding-right:0px;
+    line-height:38px;
+    font-family: tahoma, arial, verdana;
+}
+
+#menu a:hover, a:active {
+    color:#fd4e00;
+    text-shadow: 0.1em 0.1em 1.0em yellow;
+}

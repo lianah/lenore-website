@@ -1,0 +1,45 @@
+@inproceedings{skrupsky2013tamperproof,
+  title={TamperProof: a server-agnostic defense for parameter tampering attacks on web applications},
+  author={Skrupsky, Nazari and Bisht, Prithvi and Hinrichs, Timothy and Venkatakrishnan, VN and Zuck, Lenore},
+  booktitle={Proceedings of the third ACM conference on Data and application security and privacy},
+  pages={129--140},
+  year={2013},
+  organization={ACM}
+}
+
+@incollection{namjoshi2013witnessing,
+  title={Witnessing Program Transformations},
+  author={Namjoshi, Kedar S and Zuck, Lenore D},
+  booktitle={Static Analysis},
+  pages={304--323},
+  year={2013},
+  publisher={Springer}
+}
+@inproceedings{hinrichs2013weblog,
+  title={WEBLOG: a declarative language for secure web development},
+  author={Hinrichs, Timothy L and Rossetti, Daniele and Petronella, Gabriele and Venkatakrishnan, VN and Sistla, A Prasad and Zuck, Lenore D},
+  booktitle={Proceedings of the Eighth ACM SIGPLAN workshop on Programming languages and analysis for security},
+  pages={59--70},
+  year={2013},
+  organization={ACM}
+}
+@inproceedings{csf2013,
+  title={Application-Sensitive Access Control Evaluation using Parameterized Expressiveness},
+  author={Timothy Hinrichs and Diego Martinoia and William C. Garrison III and Adam Lee and Alessandro Panebianco and Lenore Zuck},	
+  booktitle={CSF2013},
+  publisher={ACM},
+  year={2013}
+}
+@inproceedings{rv2013,
+	title={A Witnessing Compiler: A proof of Concept},
+	author={Kedar S. Namjohsi and Giacomo Tagliabue and Lenore D Zuck},
+	booktitle={RV2013},
+	year={2013},
+	note= {To Appear}
+}
+@inproceedings{secureware2013,
+	title = {CAVEAT: Facilitating Interactive and Secure Client-Side Validators for Ruby on Rails Applications},
+	authors = {Timothy Hinrichs and Michael Cueno and Daniel Ruiz and V. N. Venkatkrishnana and Lenore D. Zuck},
+	booktitle = {SECUREWARE2013},
+	year = {2013},
+}
